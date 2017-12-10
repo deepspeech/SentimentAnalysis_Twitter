@@ -4,6 +4,7 @@ Determine whether a piece of writing is positive, negative or neutral.
 Also known as opinion mining, driving the opinion or attitude of a speaker.
 
 Marketing:
+
 This Twitter tool will be used by a company to develop their strategies, understand customers’ feelings towards products or brand, hand see how people respond to their campaigns or product launches. Responses provide insight as to why a product will be purchased or not purchased. 
 
 What you need to install:
