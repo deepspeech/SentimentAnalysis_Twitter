@@ -1,9 +1,10 @@
 Goal:
+
 Determine whether a piece of writing is positive, negative or neutral. 
-Also known as opinion mining, deriving the opinion or attitude of a speaker.
+Also known as opinion mining, driving the opinion or attitude of a speaker.
 
 Marketing:
-This Twitter tool will be used by a company to develop their strategies, to understand customers’ feelings towards products or brand, hand see how people respond to their campaigns or product launches. Responses provide insight as to why a product will be purchased or not purchased. 
+This Twitter tool will be used by a company to develop their strategies, understand customers’ feelings towards products or brand, hand see how people respond to their campaigns or product launches. Responses provide insight as to why a product will be purchased or not purchased. 
 
 What you need to install:
 
@@ -28,12 +29,15 @@ Once the app is created, you will be redirected to the app page.
 Open the ‘Keys and Access Tokens’ tab.
 Copy ‘Consumer Key’, ‘Consumer Secret’, ‘Access token’ and ‘Access Token Secret’.
 
-Sample output:
+Sample (pending) output:
 
 Positive tweets percentage: 30 %
+
 Negative tweets percentage: 20 %
 
 (The rest is neutral)
+
+The outcome is followed by a list of tweets.
 
 References:
 
